@@ -27,12 +27,12 @@ Here are some previews of the mindmaps. Click on the `.png` files in the reposit
 你可以在仓库中直接查看 PNG 图片，或在下方直接展示：
 
 1. **Java Basic Mindmap**  
-   [Java Basic Mindmap](java1.png)
-   [XMind Source](xmind/java1.xmind)
+   - **PNG 预览**: [Java Basic Mindmap](java1.png)  
+   - **XMind 源文件**: [xmind/java.xmind](xmind/java.xmind)
 
-3. **Java Thread and DB1**  
-   [Java Thread and DB1 Mindmap](JAVA%20Thread%20and%20DB1.png)
-   [XMind Source](xmind/thread-and-db.xmind)
+2. **Java Thread and DB1**  
+   - **PNG 预览**: [Java Thread and DB1 Mindmap](JAVA%20Thread%20and%20DB1.png)  
+   - **XMind 源文件**: [xmind/JAVA%20Thread%20and%20DB1.xmind](xmind/JAVA%20Thread%20and%20DB1.xmind)
 
 ## Usage (使用方法)
 1. **View**: Simply click the `.png` files to see the full mindmaps.  
